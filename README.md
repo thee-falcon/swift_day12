@@ -1,2 +1,5 @@
-# swift_day12
-Classes At first, classes seem very similar to structs because we use them to create new data types with properties and methods.
+# SWIFT
+
+![Swift Logo](https://cdn-icons-png.flaticon.com/256/919/919833.png)
+
+![Page 1](day12.png)
